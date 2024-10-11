@@ -1,4 +1,3 @@
--------------------------------------README-------------
 Installation
 Clone the repository:
 bash
